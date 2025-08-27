@@ -68,10 +68,3 @@ travel-chatbot/
 └── README.md           # This file
 ```
 
-
-- **Improve NER**: Try better models, add entity formatting, or link entities to external data.
-- **Features**: Add commands (e.g., `/start`, `/help`), logging, or persistence.
-
----
-
-Built for learning and rapid prototyping. Replace the placeholder pieces with your production needs.
